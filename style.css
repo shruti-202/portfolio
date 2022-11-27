@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.container-center {
+  max-width: 600px;
+  margin: auto; /**it will bring content in center**/
+}
+hr {
+  margin: 2rem 0rem;
+}
+.link-primary {
+  background-color: blueviolet;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: white;
+  text-decoration: none;
+  margin: 0.5rem 0.5rem;
+  display: block;
+  max-width: 90px;
+  text-align: center;
+}
+.link-secondary {
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+
+  display: block;
+  max-width: 90px;
+  text-align: center;
+}
+.non-bullet {
+  list-style: none;
+}
+.inline-elements {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+/**Navigation **/
+.navigation {
+  background-color: blueviolet;
+  color: white;
+  border-bottom-left-radius: 1.5rem;
+  padding: 1rem;
+}
+.link-active {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.Item {
+  display: inline;
+  padding: 0.5rem 0.5rem;
+}
+.list-pills {
+  text-align: right;
+}
+.link-noactive {
+  text-decoration: none;
+  color: white;
+}
+.nav-brand {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.head {
+  display: block;
+}
+.image {
+  margin: auto;
+  display: block;
+  max-width: 500px;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+.head .image-section {
+  text-align: center;
+}
+.section-white h3 {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.section-grey h3 {
+  text-align: center;
+}
+.section-grey {
+  background-color: rgb(226 232 240);
+  padding: 0.2rem;
+  margin-bottom: 1rem;
+}
+.footer {
+  text-align: center;
+  background-color: blueviolet;
+  padding: 1.5rem 0.5rem;
+  border-top-right-radius: 1rem;
+  color: white;
+}
+.blog .link-primary {
+  background-color: pink;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  color: white;
+  text-decoration: none;
+  /* margin: 0.5rem 0.5rem; */
+  /* display: block; */
+  max-width: 90px;
+  text-align: center;
+}
+.footer h3 {
+  color: black;
+}
+.live.link-primary {
+  background-color: blueviolet;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: white;
+  text-decoration: none;
+  margin: 0.5rem 0.5rem;
+  display: inline-block;
+  max-width: 110px;
+  text-align: center;
+}
+.live.link-secondary {
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  display: inline-block;
+  max-width: 100px;
+}
