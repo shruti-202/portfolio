@@ -2,7 +2,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-}
+    }
 .container {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -70,7 +70,7 @@ hr {
   font-weight: bold;
   font-size: 1.1rem;
 }
-.head {
+.head, {
   display: block;
 }
 .image {
@@ -78,11 +78,20 @@ hr {
   display: block;
   max-width: 500px;
   border-radius: 0.5rem;
-  padding: 0.5rem;
+  width:100%;
+  /* padding: 0.5rem; */
 }
-.head .image-section {
+.image img{
+  width:100%;
+}
+table img{
+  width:100%;
+}
+.head .image-section{
   text-align: center;
 }
+
+
 .section-white h3 {
   text-align: center;
   padding: 0.5rem;
