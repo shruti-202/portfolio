@@ -1,6 +1,6 @@
 # Shru-The_Software_Engineer
 ## Tech Stack:
-This Project is built in HTML & CSS. It consists of mini 6 Projects,which were built with the help of HTML,CSS,ReactJS
+This Portfolio is built in pure HTML & CSS. It consists of mini 6 Projects,which were built with the help of HTML,CSS,ReactJS
 ## About Project:
 This is my first Portfolio Website made with the help of HTML,CSS. Total there are 4 Pages. 
 * Home : It contains the basic idea of my Website. There is also a Project and Blog section too. If you want to view them you can just click on below Button. In the footer section I have included my account links so that you can get in touch with me.
