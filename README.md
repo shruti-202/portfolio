@@ -8,13 +8,18 @@ This is my first Portfolio Website made with the help of HTML,CSS. Total there a
 * Blogs : The Blog page consist of two Dummy Blogs. If you want to read more about dummy blog ,Please click on Read More Button,you will be directed to Dummy Blog Page.
 * About: This page has a brief information about Me.
 ## Images of my Website:
-* Front Page:  ![p8](https://user-images.githubusercontent.com/110720732/208858836-66d26c63-9a0d-4717-a986-15a7a1d50811.PNG)
-* Home Page :  ![p9](https://user-images.githubusercontent.com/110720732/208859226-282c4e94-51cb-4d03-99b9-c3e515b11fbe.PNG)
-* Project Page :![p10](https://user-images.githubusercontent.com/110720732/208859710-5a63a708-4247-46fa-8a01-2ab0a964089b.PNG)
-* Blog Page : ![p11](https://user-images.githubusercontent.com/110720732/208860160-7a077b6c-482d-4289-8ba8-4b6447fdc75f.PNG)
-* About Page : ![p12](https://user-images.githubusercontent.com/110720732/208860446-78cb80b9-7064-49e1-a611-cd9f9d06c7fa.PNG)
-* Footer Section : ![footer](https://user-images.githubusercontent.com/110720732/208860656-4d7fc1bf-9406-4f8a-be32-81e0f2ed6063.PNG)
+* Front Page:  ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/8e1fc599-5379-4c91-bdf7-727e5f856c5e)
+* Home Page :  ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/a9a59fdd-fa51-4111-a70f-c5fa47c98008)
+* Project Page :![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/c6d7661e-8e56-4d87-a0ac-71c7fec93b93)
+                ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/f79a0313-9932-4183-9be9-d19bd9cc2de6)
 
-## Link for my Portfolio:
-https://developershru.netlify.app/
+* Blog Page : ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/33ff9717-d396-4038-81cd-38e59fa75678)
+              ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/2779cfaa-325b-4421-819f-bd6af673ad20)
+* About Page : ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/205a7dae-1c79-48ac-b4f0-daafd0df8824)
+              ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/9d14d9bf-f8d5-4373-9afe-4c466a58ca10)
+
+* Footer Section : ![image](https://github.com/shruti-202/Neogcamp_The_Software_Engineer/assets/110720732/a9b88f10-d350-44f3-856a-63650375dc8a)
+
+## Link for my Portfolio: https://shrutis-portfolio.netlify.app/
+
 
