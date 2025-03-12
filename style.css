@@ -152,3 +152,22 @@ table img{
   display: inline-block;
   max-width: 100px;
 }
+.skills-container {
+  display: flex;
+  gap: 40px;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skills-list li {
+  padding: 5px 0;
+}
+
+.skills-section {
+  margin-left: 20px;
+
+}
